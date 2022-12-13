@@ -26,6 +26,6 @@ endif()
 ament_package()
 
 install(
-  DIRECTORY config launch maps meshes models params rviz src urdf worlds
-  DESTINATION share/${PROJECT_NAME}
+  DIRECTORY launch config maps meshes models rviz urdf worlds
+  DESTINATION share/${PROJECT_NAME}/
 )
