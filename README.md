@@ -1,3 +1,4 @@
 # two_wheeled_robot
-Two-wheeled autonomous mobile robot
-This robot will move many features. It will have both tele-operation mode and autonomous mode for navigation.
+Two-wheeled autonomous mobile robot.
+
+This robot has many features. It has both tele-operation mode and autonomous mode for navigation.
